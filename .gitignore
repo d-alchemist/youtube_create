@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Regenerable intermediate media.
+university_rating_shift/build/
+university_rating_shift/build_motion/
+university_rating_shift/build_rich/
+university_rating_shift/build_stylebert/
+university_rating_shift/build_voicevox/
