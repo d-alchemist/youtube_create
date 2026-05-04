@@ -1,0 +1,31 @@
+{
+  "purpose": "YouTube A/Bテスト用のサムネイル3種・タイトル3種",
+  "pairing": "基本は同じID同士のサムネイルとタイトルを組み合わせます。",
+  "variants": [
+    {
+      "id": "A",
+      "label": "定番ランキング訴求",
+      "title": "親世代と評価が変わった大学ランキングTOP10｜偏差値だけでは見えない“今選ばれる大学”",
+      "thumbnail_png": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/ab_test/thumbnail_A_ranking_top10.png",
+      "thumbnail_jpg": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/ab_test/thumbnail_A_ranking_top10.jpg",
+      "hypothesis": "既存サムネに近い王道型。ランキング目的の視聴者に最も誤解なく刺さるかを見る。"
+    },
+    {
+      "id": "B",
+      "label": "違和感・問いかけ訴求",
+      "title": "親世代の大学イメージはもう古い？評価が変わった大学TOP10をデータで解説",
+      "thumbnail_png": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/ab_test/thumbnail_B_parent_image_old.png",
+      "thumbnail_jpg": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/ab_test/thumbnail_B_parent_image_old.jpg",
+      "hypothesis": "疑問形でクリック前の違和感を作る型。親子世代の認識差に反応する層を狙う。"
+    },
+    {
+      "id": "C",
+      "label": "データ根拠訴求",
+      "title": "志願者数・就職実績で見る「今選ばれる大学」TOP10｜親世代と評価が変わった大学",
+      "thumbnail_png": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/ab_test/thumbnail_C_data_selected.png",
+      "thumbnail_jpg": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/ab_test/thumbnail_C_data_selected.jpg",
+      "hypothesis": "ランキングより根拠を前に出す型。受験・進路情報として保存価値を感じる層を狙う。"
+    }
+  ],
+  "titles_txt": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/ab_test/titles_ab_test.txt"
+}

@@ -1,0 +1,13 @@
+{
+  "youtube_url_placeholder": "{YOUTUBE_URL}",
+  "threads": {
+    "post": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/social/threads_post.txt",
+    "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/social/threads_card_1080x1350.jpg",
+    "image_size": "1080x1350"
+  },
+  "x": {
+    "post": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/social/x_post.txt",
+    "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/social/x_card_1600x900.jpg",
+    "image_size": "1600x900"
+  }
+}
