@@ -1,0 +1,299 @@
+{
+  "duration_seconds": 480,
+  "slide_count": 18,
+  "video": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/oyasedai_hyouka_daigaku_8min_slides_no_voice.mp4",
+  "slides": [
+    {
+      "index": 0,
+      "slug": "title",
+      "duration": 15,
+      "start": 0,
+      "end": 15,
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/00_title.png",
+      "visible_text": [
+        "親世代と評価が変わった\n大学ランキング TOP10",
+        "偏差値だけでは見えない、いま選ばれる大学の変化を見る",
+        "意外と知らない大学評価の変化",
+        "名前のイメージではなく、いま選ばれている理由に注目します。"
+      ]
+    },
+    {
+      "index": 1,
+      "slug": "premise",
+      "duration": 30,
+      "start": 15,
+      "end": 45,
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/01_premise.png",
+      "visible_text": [
+        "親世代のイメージと、いまの評価は違う",
+        "校名・昔の偏差値・卒業生の印象だけでは、現在の大学価値は見えにくい",
+        "親世代の評価は、昔の知名度や校名イメージに引っ張られやすいです。",
+        "いまの評価は、志願者数、就職実績、学部改革、社会ニーズとの接続で変わります。",
+        "このランキングでは、親世代の印象からどれだけ評価が更新されたかを見ます。"
+      ]
+    },
+    {
+      "index": 2,
+      "slug": "method",
+      "duration": 30,
+      "start": 45,
+      "end": 75,
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/02_method.png",
+      "visible_text": [
+        "評価軸は4つ",
+        "人気・就職・改革・印象差を、公開情報ベースで独自集計",
+        "志願者数は、いま受験生に選ばれているかを見る指標です。",
+        "就職実績と学部改革は、企業や社会からの評価につながる指標です。"
+      ]
+    },
+    {
+      "index": 3,
+      "slug": "score_chart",
+      "duration": 30,
+      "start": 75,
+      "end": 105,
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/03_score_chart.png",
+      "visible_text": [
+        "全体像：独自評価スコア",
+        "上位ほど、親世代の印象から現在の評価への変化が大きい"
+      ]
+    },
+    {
+      "index": 4,
+      "slug": "applicant_chart",
+      "duration": 30,
+      "start": 105,
+      "end": 135,
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/04_applicant_chart.png",
+      "visible_text": [
+        "根拠グラフ：志願者数で見る変化",
+        "一部の大学は、受験生からの選ばれ方が数字ではっきり見える",
+        "近畿大学、千葉工業大学、東洋大学は、志願者数という見えやすい数字で評価の変化を示しています。"
+      ]
+    },
+    {
+      "index": 5,
+      "slug": "rank_10",
+      "duration": 27,
+      "start": 135,
+      "end": 162,
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/05_rank_10.png",
+      "visible_text": [
+        "第10位 東京都市大学",
+        "理工系＋都市領域",
+        "親世代の印象: 武蔵工大の理工系イメージ",
+        "いまの評価: 都市・環境・情報まで広がる実学系大学",
+        "親世代には「武蔵工大」という理工系の印象が残りやすい大学です。",
+        "いまは都市生活、環境、情報、建築など、社会課題に近い領域まで見え方が広がっています。",
+        "名前の変更だけでなく、理工系の土台を現代的な実学へ接続している点を評価しました。",
+        "根拠: 都市・環境・情報領域へ広がる実学系ブランド"
+      ]
+    },
+    {
+      "index": 6,
+      "slug": "rank_09",
+      "duration": 27,
+      "start": 162,
+      "end": 189,
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/06_rank_09.png",
+      "visible_text": [
+        "第9位 國學院大學",
+        "伝統校の再評価",
+        "親世代の印象: 文学・神道の伝統校",
+        "いまの評価: 渋谷立地と堅実就職で再評価",
+        "親世代には文学、神道、日本文化の伝統校というイメージが強い大学です。",
+        "現在は渋谷という立地、人文系の厚み、法・経済・観光系の展開で、堅実な総合大学として見られています。",
+        "派手な改革ではなく、伝統を今の進路価値へつなげ直している点が変化です。",
+        "根拠: 渋谷立地と伝統分野の再評価"
+      ]
+    },
+    {
+      "index": 7,
+      "slug": "rank_08",
+      "duration": 27,
+      "start": 189,
+      "end": 216,
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/07_rank_08.png",
+      "visible_text": [
+        "第8位 金沢工業大学",
+        "PBL・実践教育",
+        "親世代の印象: 地方の工業大学",
+        "いまの評価: PBL型の実践教育で評価",
+        "地方の工業大学という見られ方から、実践型エンジニア教育の大学へ印象が変わっています。",
+        "プロジェクトデザイン教育のように、課題発見から設計、実装までを学ぶ仕組みが特徴です。",
+        "企業が求める実務接続型の学びと相性がよく、親世代の単純な知名度評価では測りにくい大学です。",
+        "根拠: プロジェクトデザイン教育 / PBL型の実践教育"
+      ]
+    },
+    {
+      "index": 8,
+      "slug": "rank_07",
+      "duration": 27,
+      "start": 216,
+      "end": 243,
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/08_rank_07.png",
+      "visible_text": [
+        "第7位 武蔵野大学",
+        "新学部改革",
+        "親世代の印象: 女子大・文系中心の印象",
+        "いまの評価: AI・データサイエンスも持つ総合大学",
+        "親世代には女子大、文系中心という印象が残りやすい大学です。",
+        "いまはAI、データサイエンス、アントレプレナーシップ、サステナビリティなど、新しい学びの展開が速いです。",
+        "校名イメージと実際の学部構成の差が大きく、評価が変わった大学として入れています。",
+        "根拠: データサイエンス学部・AI/ビッグデータ教育"
+      ]
+    },
+    {
+      "index": 9,
+      "slug": "rank_06",
+      "duration": 27,
+      "start": 243,
+      "end": 270,
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/09_rank_06.png",
+      "visible_text": [
+        "第6位 東京電機大学",
+        "就職内定率99.2%",
+        "親世代の印象: 電機・工学の専門校",
+        "いまの評価: メーカー・ITに強い技術者大学",
+        "電機・工学の専門校という印象は今も強いですが、現代ではIT、メーカー、情報系人材への評価につながっています。",
+        "2025年3月卒業生・修了生の就職内定率99.2%、求人社数17,545社という企業接点が大きな根拠です。",
+        "地味に見える技術系大学ほど、就職市場での評価が見直されやすくなっています。",
+        "根拠: 2025年3月卒 就職内定率99.2% / 求人社数17,545社"
+      ]
+    },
+    {
+      "index": 10,
+      "slug": "rank_05",
+      "duration": 27,
+      "start": 270,
+      "end": 297,
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/10_rank_05.png",
+      "visible_text": [
+        "第5位 名城大学",
+        "実就職率に強い",
+        "親世代の印象: 中部の大規模私大",
+        "いまの評価: 実就職率で全国級の評価",
+        "中部の大規模私大という印象から、就職実績で全国的に見られる大学へ変化しています。",
+        "学部卒業生2,000人以上の大学で、実就職率ランキング15年連続全国No.1という実績が強いです。",
+        "大学名の全国的な派手さより、卒業後の成果を数字で示せる点を評価しました。",
+        "根拠: 実就職率ランキング 15年連続全国No.1"
+      ]
+    },
+    {
+      "index": 11,
+      "slug": "rank_04",
+      "duration": 27,
+      "start": 297,
+      "end": 324,
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/11_rank_04.png",
+      "visible_text": [
+        "第4位 芝浦工業大学",
+        "理工系ブランド上昇",
+        "親世代の印象: 地味な工業大学",
+        "いまの評価: 首都圏理工系の有力校",
+        "親世代には地味な工業大学という印象を持たれがちでした。",
+        "現在は首都圏理工系の有力校として、理工系人気、国際性、企業評価の面で存在感があります。",
+        "THE日本大学ランキング2025で総合32位、私立7位という外部評価も、見方の変化を支えています。",
+        "根拠: THE日本大学ランキング2025 総合32位 / 私立7位"
+      ]
+    },
+    {
+      "index": 12,
+      "slug": "rank_03",
+      "duration": 27,
+      "start": 324,
+      "end": 351,
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/12_rank_03.png",
+      "visible_text": [
+        "第3位 東洋大学",
+        "志願者数 全国4位",
+        "親世代の印象: 中堅私大の一角",
+        "いまの評価: 首都圏の人気総合大学",
+        "中堅私大の一角という見方から、首都圏の人気総合大学という見方へ変わっています。",
+        "2025年度の志願者数は113,762名で、私立大学全国4位です。",
+        "キャンパス立地、学部規模、受験生からの選ばれ方が、親世代のイメージを更新しています。",
+        "根拠: 2025年度志願者数113,762名 / 私立大学全国4位"
+      ]
+    },
+    {
+      "index": 13,
+      "slug": "rank_02",
+      "duration": 27,
+      "start": 351,
+      "end": 378,
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/13_rank_02.png",
+      "visible_text": [
+        "第2位 近畿大学",
+        "総志願者23万人超",
+        "親世代の印象: 関西の大規模私大",
+        "いまの評価: 実学・広報・改革の全国ブランド",
+        "関西の大規模私大という印象から、実学、広報、改革の全国ブランドへ変わっています。",
+        "2026年度一般入試の総志願者数は234,245人で過去最多です。",
+        "水産、医療、情報、建築などの実学色に加え、伝え方の強さも評価を押し上げています。",
+        "根拠: 2026年度一般入試 総志願者数234,245人 / 過去最多"
+      ]
+    },
+    {
+      "index": 14,
+      "slug": "rank_01",
+      "duration": 27,
+      "start": 378,
+      "end": 405,
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/14_rank_01.png",
+      "visible_text": [
+        "第1位 千葉工業大学",
+        "2025 私大志願者1位",
+        "親世代の印象: 工業系の単科大学イメージ",
+        "いまの評価: AI・宇宙・半導体で志願者数トップ級",
+        "工業系の単科大学という印象から、AI、宇宙、半導体で注目される大学へ変わっています。",
+        "2025年度一般選抜の志願者数は162,005人で私立大学1位です。",
+        "時代が求める領域に大学の打ち出しが噛み合い、親世代の知名度評価を大きく超えています。",
+        "根拠: 2025年度一般選抜 志願者数162,005人 / 私立大学1位"
+      ]
+    },
+    {
+      "index": 15,
+      "slug": "common_patterns",
+      "duration": 30,
+      "start": 405,
+      "end": 435,
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/15_common_patterns.png",
+      "visible_text": [
+        "評価が変わる大学の共通点",
+        "昔の知名度ではなく、いまの社会に合う学びを作れている",
+        "AI、データ、半導体、都市、環境など、社会ニーズに直結する領域を伸ばしています。",
+        "就職実績、志願者数、外部ランキングなど、変化を数字で示せる大学が強いです。",
+        "親世代の校名イメージを超えるだけの、具体的な改革ストーリーがあります。"
+      ]
+    },
+    {
+      "index": 16,
+      "slug": "update_view",
+      "duration": 30,
+      "start": 435,
+      "end": 465,
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/16_update_view.png",
+      "visible_text": [
+        "親世代の見方をアップデートする",
+        "大学名だけでなく、伸びている理由を見る",
+        "大学選びでは、昔の偏差値序列だけでなく、いまの学部構成と就職の強さを見るべきです。",
+        "特に理工系、情報系、実学系は、社会の変化によって評価が動きやすい領域です。",
+        "親世代の安心感と、現代の実力評価を分けて考えることが大切です。"
+      ]
+    },
+    {
+      "index": 17,
+      "slug": "closing",
+      "duration": 15,
+      "start": 465,
+      "end": 480,
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/17_closing.png",
+      "visible_text": [
+        "結論：大学選びは“今の理由”を見る時代へ",
+        "名前の印象より、伸びている根拠を確認する",
+        "このランキングは、大学の優劣ではなく、評価の変化を可視化するためのものです。",
+        "親世代の安心感と、いまの実力評価を分けて見ることが大切です。"
+      ]
+    }
+  ]
+}

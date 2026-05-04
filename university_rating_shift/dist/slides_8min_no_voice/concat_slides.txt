@@ -1,0 +1,37 @@
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/00_title.png'
+duration 15
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/01_premise.png'
+duration 30
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/02_method.png'
+duration 30
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/03_score_chart.png'
+duration 30
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/04_applicant_chart.png'
+duration 30
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/05_rank_10.png'
+duration 27
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/06_rank_09.png'
+duration 27
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/07_rank_08.png'
+duration 27
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/08_rank_07.png'
+duration 27
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/09_rank_06.png'
+duration 27
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/10_rank_05.png'
+duration 27
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/11_rank_04.png'
+duration 27
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/12_rank_03.png'
+duration 27
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/13_rank_02.png'
+duration 27
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/14_rank_01.png'
+duration 27
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/15_common_patterns.png'
+duration 30
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/16_update_view.png'
+duration 30
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/17_closing.png'
+duration 15
+file '/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/17_closing.png'

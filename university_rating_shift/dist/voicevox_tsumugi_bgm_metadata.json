@@ -1,0 +1,13 @@
+{
+  "input_video": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/oyasedai_hyouka_daigaku_8min_voicevox_tsumugi_synced.mp4",
+  "output": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/oyasedai_hyouka_daigaku_8min_voicevox_tsumugi_synced_bgm.mp4",
+  "duration": 599.177,
+  "bgm_wav": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/selected_bgm_clear_smooth_algorithm_50pct.wav",
+  "bgm_volume": "50%",
+  "fade_seconds": 4,
+  "tracks": [
+    "/Users/mikitooba/Library/CloudStorage/GoogleDrive-mikimiki.4on@gmail.com/マイドライブ/Mic/著作権/BGM/clear-vision.mp3",
+    "/Users/mikitooba/Library/CloudStorage/GoogleDrive-mikimiki.4on@gmail.com/マイドライブ/Mic/著作権/BGM/smooth-optimization.mp3",
+    "/Users/mikitooba/Library/CloudStorage/GoogleDrive-mikimiki.4on@gmail.com/マイドライブ/Mic/著作権/BGM/algorithm-symphony.mp3"
+  ]
+}

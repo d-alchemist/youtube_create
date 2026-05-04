@@ -1,0 +1,210 @@
+{
+  "speaker": "VOICEVOX:春日部つむぎ",
+  "speaker_id": 8,
+  "provider": "ttsquest",
+  "duration": 599.167,
+  "slide_count": 18,
+  "output": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/oyasedai_hyouka_daigaku_8min_voicevox_tsumugi_synced.mp4",
+  "narration_wav": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/voicevox_tsumugi_8min_synced_narration.wav",
+  "manifest": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice_manifest.json",
+  "slides": [
+    {
+      "index": 0,
+      "slug": "title",
+      "start": 0.0,
+      "end": 15.0,
+      "duration": 15.0,
+      "original_duration": 15,
+      "audio_duration": 14.197,
+      "text": "おやせだいとひょうかがかわった、だいがくらんきんぐ、とっぷてん。へんさちだけではみえない、いまえらばれるだいがくのへんかをみる。いがいとしらないだいがくひょうかのへんか。なまえのいめえじではなく、いまえらばれているりゆうにちゅうもくします。",
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/00_title.png"
+    },
+    {
+      "index": 1,
+      "slug": "premise",
+      "start": 15.0,
+      "end": 45.0,
+      "duration": 30.0,
+      "original_duration": 30,
+      "audio_duration": 26.005,
+      "text": "おやせだいのいめえじと、いまのひょうかはちがう。こうめい、むかしのへんさち、そつぎょうせいのいんしょうだけでは、げんざいのだいがくかちはみえにくい。おやせだいのひょうかは、むかしのちめいどやこうめいいめえじにひっぱられやすいです。いまのひょうかは、しがんしゃすう、しゅうしょくじっせき、がくぶかいかく、しゃかいにいずとのせつぞくでかわります。このらんきんぐでは、おやせだいのいんしょうからどれだけひょうかがこうしんされたかをみます。",
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/01_premise.png"
+    },
+    {
+      "index": 2,
+      "slug": "method",
+      "start": 45.0,
+      "end": 75.0,
+      "duration": 30.0,
+      "original_duration": 30,
+      "audio_duration": 16.363,
+      "text": "ひょうかじくはよっつ。にんき、しゅうしょく、かいかく、いんしょうさを、こうかいじょうほうべえすでどくじしゅうけい。しがんしゃすうは、いまじゅけんせいにえらばれているかをみるしひょうです。しゅうしょくじっせきとがくぶかいかくは、きぎょうやしゃかいからのひょうかにつながるしひょうです。",
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/02_method.png"
+    },
+    {
+      "index": 3,
+      "slug": "score_chart",
+      "start": 75.0,
+      "end": 105.0,
+      "duration": 30.0,
+      "original_duration": 30,
+      "audio_duration": 6.709,
+      "text": "ぜんたいぞう。どくじひょうかすこあ。じょういほど、おやせだいのいんしょうからげんざいのひょうかへのへんかがおおきい。",
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/03_score_chart.png"
+    },
+    {
+      "index": 4,
+      "slug": "applicant_chart",
+      "start": 105.0,
+      "end": 135.0,
+      "duration": 30.0,
+      "original_duration": 30,
+      "audio_duration": 15.147,
+      "text": "こんきょぐらふ。しがんしゃすうでみるへんか。いちぶのだいがくは、じゅけんせいからのえらばれかたがすうじではっきりみえる。きんきだいがく、ちばこうぎょうだいがく、とうようだいがくは、しがんしゃすうというみえやすいすうじでひょうかのへんかをしめしています。",
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/04_applicant_chart.png"
+    },
+    {
+      "index": 5,
+      "slug": "rank_10",
+      "start": 135.0,
+      "end": 171.703,
+      "duration": 36.703,
+      "original_duration": 27,
+      "audio_duration": 36.053,
+      "text": "だいじゅうい、とうきょうとしだいがく。りこうけいぷらすとしりょういき。おやせだいのいんしょう、むさしこうだいのりこうけいいめえじ。いまのひょうか、とし、かんきょう、じょうほうまでひろがるじつがくけいだいがく。おやせだいには、むさしこうだいというりこうけいのいんしょうがのこりやすいだいがくです。いまはとしせいかつ、かんきょう、じょうほう、けんちくなど、しゃかいかだいにちかいりょういきまでみえかたがひろがっています。なまえのへんこうだけでなく、りこうけいのどだいをげんだいてきなじつがくへせつぞくしているてんをひょうかしました。こんきょ、とし、かんきょう、じょうほうりょういきへひろがるじつがくけいぶらんど。",
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/05_rank_10.png"
+    },
+    {
+      "index": 6,
+      "slug": "rank_09",
+      "start": 171.703,
+      "end": 206.86,
+      "duration": 35.157,
+      "original_duration": 27,
+      "audio_duration": 34.507,
+      "text": "だいきゅうい、こくがくいんだいがく。でんとうこうのさいひょうか。おやせだいのいんしょう、ぶんがく、しんとうのでんとうこう。いまのひょうか、しぶやりっちとけんじつしゅうしょくでさいひょうか。おやせだいにはぶんがく、しんとう、にほんぶんかのでんとうこうといういめえじがつよいだいがくです。げんざいはしぶやというりっち、じんぶんけいのあつみ、ほう、けいざい、かんこうけいのてんかいで、けんじつなそうごうだいがくとしてみられています。はでなかいかくではなく、でんとうをいまのしんろかちへつなげなおしているてんがへんかです。こんきょ、しぶやりっちとでんとうぶんやのさいひょうか。",
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/06_rank_09.png"
+    },
+    {
+      "index": 7,
+      "slug": "rank_08",
+      "start": 206.86,
+      "end": 244.15,
+      "duration": 37.29,
+      "original_duration": 27,
+      "audio_duration": 36.64,
+      "text": "だいはちい、かなざわこうぎょうだいがく。ぴいびいえる、じっせんきょういく。おやせだいのいんしょう、ちほうのこうぎょうだいがく。いまのひょうか、ぴいびいえるがたのじっせんきょういくでひょうか。ちほうのこうぎょうだいがくというみられかたから、じっせんがたえんじにあきょういくのだいがくへいんしょうがかわっています。ぷろじぇくとでざいんきょういくのように、かだいはっけんからせっけい、じっそうまでをまなぶしくみがとくちょうです。きぎょうがもとめるじつむせつぞくがたのまなびとあいしょうがよく、おやせだいのたんじゅんなちめいどひょうかでははかりにくいだいがくです。こんきょ、ぷろじぇくとでざいんきょういく、ぴいびいえるがたのじっせんきょういく。",
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/07_rank_08.png"
+    },
+    {
+      "index": 8,
+      "slug": "rank_07",
+      "start": 244.15,
+      "end": 278.571,
+      "duration": 34.421,
+      "original_duration": 27,
+      "audio_duration": 33.771,
+      "text": "だいなない、むさしのだいがく。しんがくぶかいかく。おやせだいのいんしょう、じょしだい、ぶんけいちゅうしんのいんしょう。いまのひょうか、ええあい、でえたさいえんすももつそうごうだいがく。おやせだいにはじょしだい、ぶんけいちゅうしんといういんしょうがのこりやすいだいがくです。いまはええあい、でえたさいえんす、あんとれぷれなあしっぷ、さすてなびりてぃなど、あたらしいまなびのてんかいがはやいです。こうめいいめえじとじっさいのがくぶこうせいのさがおおきく、ひょうかがかわっただいがくとしていれています。こんきょ、でえたさいえんすがくぶ、ええあい、びっぐでえたきょういく。",
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/08_rank_07.png"
+    },
+    {
+      "index": 9,
+      "slug": "rank_06",
+      "start": 278.571,
+      "end": 328.074,
+      "duration": 49.503,
+      "original_duration": 27,
+      "audio_duration": 48.853,
+      "text": "だいろくい、とうきょうでんきだいがく。しゅうしょくないていりつ、きゅうじゅうきゅうてんにぱあせんと。おやせだいのいんしょう、でんき、こうがくのせんもんこう。いまのひょうか、めえかあ、あいてぃいにつよいぎじゅつしゃだいがく。でんき、こうがくのせんもんこうといういんしょうはいまもつよいですが、げんだいではあいてぃい、めえかあ、じょうほうけいじんざいへのひょうかにつながっています。にせんにじゅうごねんさんがつそつぎょうせい、しゅうりょうせいのしゅうしょくないていりつは、きゅうじゅうきゅうてんにぱあせんと。きゅうじんしゃすうは、いちまんななせんごひゃくよんじゅうごしゃというきぎょうせってんがおおきなこんきょです。じみにみえるぎじゅつけいだいがくほど、しゅうしょくしじょうでのひょうかがみなおされやすくなっています。こんきょ、にせんにじゅうごねんさんがつそつ、しゅうしょくないていりつきゅうじゅうきゅうてんにぱあせんと、きゅうじんしゃすういちまんななせんごひゃくよんじゅうごしゃ。",
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/09_rank_06.png"
+    },
+    {
+      "index": 10,
+      "slug": "rank_05",
+      "start": 328.074,
+      "end": 363.732,
+      "duration": 35.658,
+      "original_duration": 27,
+      "audio_duration": 35.008,
+      "text": "だいごい、めいじょうだいがく。じつしゅうしょくりつにつよい。おやせだいのいんしょう、ちゅうぶのだいきぼしだい。いまのひょうか、じつしゅうしょくりつでぜんこくきゅうのひょうか。ちゅうぶのだいきぼしだいといういんしょうから、しゅうしょくじっせきでぜんこくてきにみられるだいがくへへんかしています。がくぶそつぎょうせいにせんにんいじょうのだいがくで、じつしゅうしょくりつらんきんぐじゅうごねんれんぞくぜんこくなんばあわんというじっせきがつよいです。だいがくめいのぜんこくてきなはでさより、そつぎょうごのせいかをすうじでしめせるてんをひょうかしました。こんきょ、じつしゅうしょくりつらんきんぐ、じゅうごねんれんぞくぜんこくなんばあわん。",
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/10_rank_05.png"
+    },
+    {
+      "index": 11,
+      "slug": "rank_04",
+      "start": 363.732,
+      "end": 403.155,
+      "duration": 39.423,
+      "original_duration": 27,
+      "audio_duration": 38.773,
+      "text": "だいよんい、しばうらこうぎょうだいがく。りこうけいぶらんどじょうしょう。おやせだいのいんしょう、じみなこうぎょうだいがく。いまのひょうか、しゅとけんりこうけいのゆうりょくこう。おやせだいにはじみなこうぎょうだいがくといういんしょうをもたれがちでした。げんざいはしゅとけんりこうけいのゆうりょくこうとして、りこうけいにんき、こくさいせい、きぎょうひょうかのめんでそんざいかんがあります。たいむずはいああえでゅけえしょんにほんだいがくらんきんぐ、にせんにじゅうごで、そうごうさんじゅうにい、しりつなないというがいぶひょうかも、みかたのへんかをささえています。こんきょ、たいむずはいああえでゅけえしょんにほんだいがくらんきんぐにせんにじゅうご、そうごうさんじゅうにい、しりつなない。",
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/11_rank_04.png"
+    },
+    {
+      "index": 12,
+      "slug": "rank_03",
+      "start": 403.155,
+      "end": 440.936,
+      "duration": 37.781,
+      "original_duration": 27,
+      "audio_duration": 37.131,
+      "text": "だいさんい、とうようだいがく。しがんしゃすう、ぜんこくよんい。おやせだいのいんしょう、ちゅうけんしだいのいっかく。いまのひょうか、しゅとけんのにんきそうごうだいがく。ちゅうけんしだいのいっかくというみかたから、しゅとけんのにんきそうごうだいがくというみかたへかわっています。にせんにじゅうごねんどのしがんしゃすうは、じゅういちまんさんぜんななひゃくろくじゅうにめいで、しりつだいがくぜんこくよんいです。きゃんぱすりっち、がくぶきぼ、じゅけんせいからのえらばれかたが、おやせだいのいめえじをこうしんしています。こんきょ、にせんにじゅうごねんどしがんしゃすう、じゅういちまんさんぜんななひゃくろくじゅうにめい、しりつだいがくぜんこくよんい。",
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/12_rank_03.png"
+    },
+    {
+      "index": 13,
+      "slug": "rank_02",
+      "start": 440.936,
+      "end": 481.223,
+      "duration": 40.287,
+      "original_duration": 27,
+      "audio_duration": 39.637,
+      "text": "だいにい、きんきだいがく。そうしがんしゃ、にじゅうさんまんにんちょう。おやせだいのいんしょう、かんさいのだいきぼしだい。いまのひょうか、じつがく、こうほう、かいかくのぜんこくぶらんど。かんさいのだいきぼしだいといういんしょうから、じつがく、こうほう、かいかくのぜんこくぶらんどへかわっています。にせんにじゅうろくねんどいっぱんにゅうしのそうしがんしゃすうは、にじゅうさんまんよんせんにひゃくよんじゅうごにんで、かこさいたです。すいさん、いりょう、じょうほう、けんちくなどのじつがくしょくにくわえ、つたえかたのつよさもひょうかをおしあげています。こんきょ、にせんにじゅうろくねんどいっぱんにゅうし、そうしがんしゃすうにじゅうさんまんよんせんにひゃくよんじゅうごにん、かこさいた。",
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/13_rank_02.png"
+    },
+    {
+      "index": 14,
+      "slug": "rank_01",
+      "start": 481.223,
+      "end": 521.873,
+      "duration": 40.65,
+      "original_duration": 27,
+      "audio_duration": 40.0,
+      "text": "だいいちい、ちばこうぎょうだいがく。にせんにじゅうご、しだいしがんしゃいちい。おやせだいのいんしょう、こうぎょうけいのたんかだいがくいめえじ。いまのひょうか、ええあい、うちゅう、はんどうたいでしがんしゃすうとっぷきゅう。こうぎょうけいのたんかだいがくといういんしょうから、ええあい、うちゅう、はんどうたいでちゅうもくされるだいがくへかわっています。にせんにじゅうごねんどいっぱんせんばつのしがんしゃすうは、じゅうろくまんにせんごにんで、しりつだいがくいちいです。じだいがもとめるりょういきにだいがくのうちだしがかみあい、おやせだいのちめいどひょうかをおおきくこえています。こんきょ、にせんにじゅうごねんどいっぱんせんばつ、しがんしゃすうじゅうろくまんにせんごにん、しりつだいがくいちい。",
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/14_rank_01.png"
+    },
+    {
+      "index": 15,
+      "slug": "common_patterns",
+      "start": 521.873,
+      "end": 551.873,
+      "duration": 30.0,
+      "original_duration": 30,
+      "audio_duration": 24.725,
+      "text": "ひょうかがかわるだいがくのきょうつうてん。むかしのちめいどではなく、いまのしゃかいにあうまなびをつくれている。ええあい、でえた、はんどうたい、とし、かんきょうなど、しゃかいにいずにちょっけつするりょういきをのばしています。しゅうしょくじっせき、しがんしゃすう、がいぶらんきんぐなど、へんかをすうじでしめせるだいがくがつよいです。おやせだいのこうめいいめえじをこえるだけの、ぐたいてきなかいかくすとおりいがあります。",
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/15_common_patterns.png"
+    },
+    {
+      "index": 16,
+      "slug": "update_view",
+      "start": 551.873,
+      "end": 581.873,
+      "duration": 30.0,
+      "original_duration": 30,
+      "audio_duration": 23.861,
+      "text": "おやせだいのみかたをあっぷでえとする。だいがくめいだけでなく、のびているりゆうをみる。だいがくえらびでは、むかしのへんさちじょれつだけでなく、いまのがくぶこうせいとしゅうしょくのつよさをみるべきです。とくにりこうけい、じょうほうけい、じつがくけいは、しゃかいのへんかによってひょうかがうごきやすいりょういきです。おやせだいのあんしんかんと、げんだいのじつりょくひょうかをわけてかんがえることがたいせつです。",
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/16_update_view.png"
+    },
+    {
+      "index": 17,
+      "slug": "closing",
+      "start": 581.873,
+      "end": 599.162,
+      "duration": 17.289,
+      "original_duration": 15,
+      "audio_duration": 16.939,
+      "text": "けつろん。だいがくえらびはいまのりゆうをみるじだいへ。なまえのいんしょうより、のびているこんきょをかくにんする。このらんきんぐは、だいがくのゆうれつではなく、ひょうかのへんかをかしかするためのものです。おやせだいのあんしんかんと、いまのじつりょくひょうかをわけてみることがたいせつです。",
+      "image": "/Users/mikitooba/Documents/New project 3/university_rating_shift/dist/slides_8min_no_voice/17_closing.png"
+    }
+  ]
+}

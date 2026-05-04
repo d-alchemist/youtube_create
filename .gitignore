@@ -8,3 +8,14 @@ university_rating_shift/build_motion/
 university_rating_shift/build_rich/
 university_rating_shift/build_stylebert/
 university_rating_shift/build_voicevox/
+university_rating_shift/build_voicevox_8min/
+university_rating_shift/build_bgm/
+
+# Large regenerated outputs for the current long-form workflow.
+university_rating_shift/dist/slides_15min_no_voice/
+university_rating_shift/dist/slides_15min_no_voice_manifest.json
+university_rating_shift/dist/narration_script_15min_slide_text.txt
+university_rating_shift/dist/oyasedai_hyouka_daigaku_15min_slides_no_voice.mp4
+university_rating_shift/dist/selected_bgm_*.wav
+university_rating_shift/dist/voicevox_tsumugi_8min_synced_narration.wav
+university_rating_shift/dist/oyasedai_hyouka_daigaku_8min_voicevox_tsumugi_synced.mp4
